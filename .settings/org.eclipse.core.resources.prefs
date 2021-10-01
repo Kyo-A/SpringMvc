@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/eclipse/secondspringmvc/model/Personne.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/addPerson.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/connectForm.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/personneForm.jsp=UTF-8
